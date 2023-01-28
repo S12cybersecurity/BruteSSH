@@ -14,3 +14,18 @@ Basic C++ Script to Bruteforce SSH Servers, created with 3 different files Brute
 
 To use this tool it's very simple, you only need to execute the tool:
 
+![image](https://user-images.githubusercontent.com/79543461/215282462-d1b6b558-b647-42e9-9643-d0010c8d0b35.png)
+
+Then answer the basic questions about your victim and put the path of your wordlist.
+
+![image](https://user-images.githubusercontent.com/79543461/215282431-3f3b9aab-3049-4f0c-b924-81c640babf73.png)
+
+Now it's starting tryng passwords:
+
+![image](https://user-images.githubusercontent.com/79543461/215282544-272182be-ff3d-49ee-8e6f-7938091bc061.png)
+
+And then the password its founded.
+
+![image](https://user-images.githubusercontent.com/79543461/215282564-f4c6100b-e7a2-4d36-a0f7-47a8faa44d6c.png)
+
+
