@@ -28,4 +28,7 @@ And then the password its founded.
 
 ![image](https://user-images.githubusercontent.com/79543461/215282564-f4c6100b-e7a2-4d36-a0f7-47a8faa44d6c.png)
 
+# Compile 
+
+g++ BruteForce.cpp -l ssh -o bruteSSH
 
